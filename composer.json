@@ -1,0 +1,17 @@
+{
+    "name": "akarale/assignment",
+    "description": "First assignment",
+    "type": "library",
+	"autoload": {
+        "psr-4": {"amolkarale\\HelloWorld\\": "src/"}
+    },
+    "require": {
+        "amolkarale/helloworld": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "Amol Karale",
+            "email": "akarale@xento.com"
+        }
+    ]
+}

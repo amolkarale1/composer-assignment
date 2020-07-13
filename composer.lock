@@ -1,0 +1,48 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "7be7f18ba71b851397138054955be64d",
+    "packages": [
+        {
+            "name": "amolkarale/helloworld",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/amolkarale1/composer-hello-world.git",
+                "reference": "d5584d0d550dfefae58b15f19330b71d79f9a610"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/amolkarale1/composer-hello-world/zipball/d5584d0d550dfefae58b15f19330b71d79f9a610",
+                "reference": "d5584d0d550dfefae58b15f19330b71d79f9a610",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "amolkarale\\HelloWorld\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "authors": [
+                {
+                    "name": "Amol Karale",
+                    "email": "akarale@xento.com"
+                }
+            ],
+            "time": "2020-07-13T10:22:12+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "1.1.0"
+}
